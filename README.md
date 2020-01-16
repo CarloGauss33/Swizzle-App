@@ -1,4 +1,4 @@
-# Swizzke
+# Swizzle
 
 Este projecto esta hecho para ser la aplicacion movil del proyecto-concepto de Swizzle (antiguamente conocido como piscoleitor)
 
